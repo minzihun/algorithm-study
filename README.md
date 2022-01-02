@@ -1,2 +1,2 @@
 # algorithm-study
-📖 Problem solving with JS
+📖 Problem solving with Python
