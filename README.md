@@ -1,2 +1,2 @@
 # algorithm-study
-📖 Problem solving with Python
+📖 Problem Solving with Python
